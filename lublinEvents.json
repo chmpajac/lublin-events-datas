@@ -5,7 +5,7 @@
     "date": "2025-05-15",
     "location": "Filharmonia Lubelska",
     "description": "Wieczór z muzyką Fryderyka Chopina",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Filharmonia_Lubelska_2019.jpg"
+    "image": "https://images.unsplash.com/photo-1508780709619-79562169bc64"
   },
   {
     "id": "2",
@@ -13,7 +13,7 @@
     "date": "2025-05-20",
     "location": "Centrum Kultury",
     "description": "Stand-up z jednym z najlepszych komików w Polsce",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Abelard_Giza.jpg"
+    "image": "https://images.unsplash.com/photo-1515169067865-5387ec356754"
   },
   {
     "id": "3",
@@ -21,6 +21,6 @@
     "date": "2025-05-25",
     "location": "Stare Miasto",
     "description": "Kiermasz staroci i rękodzieła",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Lublin_Old_Town_market_square.jpg"
+    "image": "https://images.unsplash.com/photo-1593629025360-8b9964768a79"
   }
 ]
