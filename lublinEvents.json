@@ -1,26 +1,26 @@
 [
   {
-    "id": "1",
-    "title": "Koncert Chopina",
-    "date": "2025-05-15",
-    "location": "Filharmonia Lubelska",
-    "description": "Wieczór z muzyką Fryderyka Chopina",
-    "image": "https://images.unsplash.com/photo-1603315082092-1c0a5aee7b27?auto=format&fit=crop&w=800&q=80"
+    "id": 1,
+    "title": "Koncert w CSK",
+    "description": "Wieczór muzyki klasycznej z orkiestrą symfoniczną.",
+    "image": "https://example.com/koncert.jpg",
+    "date": "2025-06-12",
+    "time": "19:00",
+    "location": "CSK Lublin",
+    "price": "50 zł",
+    "link": "https://bilety.csklublin.pl",
+    "type": "koncert"
   },
   {
-    "id": "2",
-    "title": "Stand-up z Abelardem Gizą",
-    "date": "2025-05-20",
-    "location": "Centrum Kultury",
-    "description": "Stand-up z jednym z najlepszych komików w Polsce",
-    "image": "https://images.unsplash.com/photo-1519677100203-a0e668c92439?auto=format&fit=crop&w=800&q=80"
-  },
-  {
-    "id": "3",
-    "title": "Pchli targ na Starym Mieście",
-    "date": "2025-05-25",
-    "location": "Stare Miasto",
-    "description": "Kiermasz staroci i rękodzieła",
-    "image": "https://images.unsplash.com/photo-1544986581-efac024faf62?auto=format&fit=crop&w=800&q=80"
+    "id": 2,
+    "title": "Wernisaż w Galerii Białej",
+    "description": "Otwarcie nowej wystawy współczesnej sztuki.",
+    "image": "https://example.com/wystawa.jpg",
+    "date": "2025-06-15",
+    "time": "18:30",
+    "location": "Galeria Biała",
+    "price": "Wstęp wolny",
+    "link": "https://galeriabiala.art",
+    "type": "wystawa"
   }
 ]
